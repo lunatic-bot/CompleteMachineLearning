@@ -1,0 +1,7 @@
+Here are some of the best tools for data science projects -
+
+- MLFlow (https://mlflow.org/)
+- Lime (https://c3.ai/glossary/data-science/lime-local-interpretable-model-agnostic-explanations/)
+- Modin (https://modin.readthedocs.io/en/stable/)
+- LUX(Intelligent Visual Discovery) - https://github.com/lux-org/lux
+- TextHero - exthero is a python package to work with text data efficiently. It empowers NLP developers with a tool to quickly understand any text-based dataset and it provides a solid pipeline to clean and represent text data, from zero to hero. https://pypi.org/project/texthero/1.0/
