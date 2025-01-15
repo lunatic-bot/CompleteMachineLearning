@@ -9,3 +9,4 @@ Here are some of the best tools for data science projects -
 - EvalML - Pipeline and Feature Engineering and feature selection - https://evalml.alteryx.com/en/stable/
 - lazypredict - build a lot of basic models without much code and helps understand which models works better - https://pypi.org/project/lazypredict/
 - gradio - Interfaces for your ML Model - https://www.gradio.app/docs Github - https://github.com/gradio-app/gradio
+- Numba - translates a subset of Python and NumPy code into fast machine code. - https://numba.pydata.org/
