@@ -6,3 +6,6 @@ Here are some of the best tools for data science projects -
 - LUX(Intelligent Visual Discovery) - https://github.com/lux-org/lux
 - TextHero - exthero is a python package to work with text data efficiently. It empowers NLP developers with a tool to quickly understand any text-based dataset and it provides a solid pipeline to clean and represent text data, from zero to hero. https://pypi.org/project/texthero/1.0/
 - Shapash (Model Explain) - https://shapash.readthedocs.io/en/latest/
+- EvalML - Pipeline and Feature Engineering and feature selection - https://evalml.alteryx.com/en/stable/
+- lazypredict - build a lot of basic models without much code and helps understand which models works better - https://pypi.org/project/lazypredict/
+- gradio - Interfaces for your ML Model - https://www.gradio.app/docs Github - https://github.com/gradio-app/gradio
