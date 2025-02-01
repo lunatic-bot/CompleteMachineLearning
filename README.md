@@ -38,7 +38,7 @@ The playlist is designed to provide a strong foundation for anyone wanting to bu
 
 - Clone the repository to your local system:
   ```bash
-  git clone https://github.com/yourusername/CompleteMachineLearning.git
+  git clone https://github.com/lunatic-bot/CompleteMachineLearning.git
   ```
 - Navigate through the folders to find:
 
